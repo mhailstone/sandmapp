@@ -1,0 +1,20 @@
+{
+  "name": "sandmapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhailstone/sandmapp.git"
+  },
+  "author": "Matthew Hailstone",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mhailstone/sandmapp/issues"
+  },
+  "homepage": "https://github.com/mhailstone/sandmapp#readme"
+}
